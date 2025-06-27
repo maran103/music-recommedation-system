@@ -33,9 +33,16 @@ A simple yet powerful music recommendation system that suggests songs based on u
    \]
    Where `A` and `B` are song feature vectors.
 
+   Output
+
+   output/
+
+
+![Screenshot (61)](https://github.com/user-attachments/assets/da34e091-1c21-4421-8c69-5bf7c2f86908)
 
 
 
+![Screenshot (62)](https://github.com/user-attachments/assets/fb334c7c-723b-444c-bb95-421d342ee107)
 
 
 
